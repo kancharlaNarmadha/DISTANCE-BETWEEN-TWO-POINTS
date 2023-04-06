@@ -8,7 +8,8 @@ Get the two values from the user
 ### Step 2: 
 Assign the value of second variable to a temporary variable
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  
+![python formula](https://user-images.githubusercontent.com/119559316/230402262-c3d012b5-b3d1-4d2d-9789-bea0d32dbca1.png)
 ### Step 4: 
 Assign the value in temporary variable to the first variable
 ### Step 5: 
